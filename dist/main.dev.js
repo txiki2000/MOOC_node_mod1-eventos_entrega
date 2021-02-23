@@ -29,7 +29,7 @@ var programacion = [{
   hora: "23:00",
   temperatura: 20
 }, {
-  hora: "23:38",
+  hora: "23:55",
   temperatura: 22
 }];
 var programador = new Programador(programacion); // Configuramos el termostato para controlar la temperatura:

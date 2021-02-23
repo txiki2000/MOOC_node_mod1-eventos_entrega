@@ -1,5 +1,5 @@
 //Para emitir eventos.
-const EventEmitter = require('events');
+const EventEmitter = require('./events');
 
 // Gestion horaria
 const later = require('later');

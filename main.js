@@ -32,7 +32,7 @@ const programacion = [{
         temperatura: 20
     },
     {
-        hora: "23:38",
+        hora: "23:55",
         temperatura: 22
     }
 
